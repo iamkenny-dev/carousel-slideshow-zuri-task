@@ -24,7 +24,7 @@ Javascript, HTML, CSS...
 
 ## Authors
 
-- [@Natzsmart](https://www.github.com/iamkenny-dev)
+- [@iamkenny-dev](https://www.github.com/iamkenny-dev)
 
 
 ## License
