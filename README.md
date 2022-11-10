@@ -2,7 +2,7 @@
 
 A <strong>Carousel/Slideshow</strong> with 6 different images football celebration.
 
-### 🔗 https://natzsmart.github.io/Carousel-Slideshow_Task/
+### 🔗 https://github.com/iamkenny-dev/carousel-slideshow-zuri-task
 
 ## Ensure the following:
 - The images are properly styled.
@@ -17,14 +17,14 @@ Javascript, HTML, CSS...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/Natzsmart/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/iamkenny-dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Legendsmarto)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamkenny_co)
 
 
 ## Authors
 
-- [@Natzsmart](https://www.github.com/Natzsmart)
+- [@Natzsmart](https://www.github.com/iamkenny-dev)
 
 
 ## License
