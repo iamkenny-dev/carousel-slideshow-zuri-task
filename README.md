@@ -2,7 +2,7 @@
 
 A <strong>Carousel/Slideshow</strong> with 6 different images football celebration.
 
-### 🔗 https://github.com/iamkenny-dev/carousel-slideshow-zuri-task
+### 🔗 https://iamkenny-dev.github.io/carousel-slideshow-zuri-task/
 
 ## Ensure the following:
 - The images are properly styled.
